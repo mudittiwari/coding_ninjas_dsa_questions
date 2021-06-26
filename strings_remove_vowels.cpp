@@ -16,9 +16,9 @@ string removeVowels(string inputString)
 
 void solve()
 {
-	string str;
-	cin>>str;
-	string ans=removeVowels(str);
+	string s;
+	cin>>s;
+	string ans=removeVowels(s);
 	cout<<ans<<endl;
 }
 
